@@ -2,6 +2,7 @@
 A set of scripts used to analyze data from whole brain cFos experiments. The code was adapted from Aboharb, F., Davoudian, P.A., Shao, LX. et al. Classification of psychedelics and psychoactive drugs based on brain-wide imaging of cellular c-Fos expression. Nat Commun 16, 1590 (2025). https://doi.org/10.1038/s41467-025-56850-6
 - While adjusting the code and writing custome functions, the original drug classes are still included, to revert it 
 - The code is writen for the original stressors, the translation of the Stressors to the new abbreviation is as follows: PC = RS, FS = ES, FSW = EC, TS = IS;
+- The Counting Pipeline.docx is the manual used for NUTIL.
 
 ## General Organization
 - **main.ipynb** - Notebook which generates figures associated with the thesis.
